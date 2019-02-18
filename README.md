@@ -1,2 +1,2 @@
 # React.ToDoList
-stack tehnology: bootstrap4,react,js(es6)
+stack technology: bootstrap4,react,js(es6)
